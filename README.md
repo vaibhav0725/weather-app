@@ -21,3 +21,10 @@ A simple and intuitive weather application that fetches real-time weather data u
    ```bash
    git clone https://github.com/vaibhav0725/weather-app.git
    cd weather-app
+2. Open the project in your code editor.
+3. Open the `index.html` file in you browser to run application locally
+
+## Your Own API Key Setup
+1. Create an account on [OpenWeatherMap](https://openweathermap.org/)
+2. Get your API key from your account's API section.
+3. In the `main.js` file, replace `YOUR_API_KEY` with your API key
