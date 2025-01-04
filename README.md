@@ -1,4 +1,4 @@
-# Weather Dekhlo 🌦️
+# Weather Jaanlo 🌦️
 
 A simple and intuitive weather application that fetches real-time weather data using the **OpenWeatherMap API**. This project demonstrates API integration, secure web communications, and deployment on Netlify.
 
