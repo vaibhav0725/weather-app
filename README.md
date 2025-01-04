@@ -3,7 +3,7 @@
 A simple and intuitive weather application that fetches real-time weather data using the **OpenWeatherMap API**. This project demonstrates API integration, secure web communications, and deployment on Netlify.
 
 ## 🌐 Live Demo
-[Weather Dekhlo](https://weather-dekhlo.netlify.app/)
+[Weather Dekhlo](https://weather-jaanlo.netlify.app/)
 
 ## 📋 Features
 - Displays current weather conditions based on user location.
@@ -11,7 +11,7 @@ A simple and intuitive weather application that fetches real-time weather data u
 - Minimalistic and responsive UI for a seamless experience.
 
 ## 🛠️ Technologies Used
-- **HTML5**: For structuring the web content.
+- **HTML5**: For structuring the web content.app
 - **CSS3**: For styling and layout design.
 - **JavaScript**: For API integration and dynamic content rendering.
 - **Netlify**: For hosting and deployment.
